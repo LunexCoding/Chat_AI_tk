@@ -1,6 +1,6 @@
 from customtkinter import CTkLabel, TOP
 
-from Markup import MARCUP, TypesUiMarkups
+from UI.Markup import MARCUP, TypesUiMarkups
 from .BaseWidget import BaseWidget
 
 

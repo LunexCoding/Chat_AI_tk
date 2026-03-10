@@ -1,6 +1,6 @@
 from customtkinter import CTkBaseClass
 
-from Markup import TypesUiMarkups
+from UI.Markup import TypesUiMarkups
 
 
 class BaseWidget(CTkBaseClass):

@@ -3,4 +3,5 @@ __pycache__/
 venv/
 logs/
 .chglog/
-.vs/
+.vscode/
+Data/Models/
